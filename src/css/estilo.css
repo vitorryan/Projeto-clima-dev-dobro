@@ -1,0 +1,23 @@
+body {
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Red hat display", sans-serif;
+    align-items: center;
+}
+
+.container {
+    background-color: #1f2949;
+    max-width: 330px;
+    background-image: url(../img/background.png);
+    color: #ffffff;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.informacao-primaria {
+    margin: 15px;
+}
+
+
